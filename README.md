@@ -6,7 +6,7 @@ The Common Lisp HyperSpec, a comprehensive documentation of Common Lisp and it's
 
 [Lispworks Docs](https://www.lispworks.com/documentation/HyperSpec/Front/index.htm)
 
-[Repo Local Docs](./HyperSpec-7-0/)
+[Repo Local Docs](https://risto-stevcev.github.io/clhs/HyperSpec/Front/index.htm)
 
 [Search](https://www.lispworks.com/cgi-bin/search.cgi?q=&t=-D--HB-)
 
